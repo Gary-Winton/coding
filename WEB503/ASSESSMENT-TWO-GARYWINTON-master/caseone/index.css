@@ -1,0 +1,49 @@
+.assessment{
+    height: 200px;
+    width: 375px;
+    font-size: 16px;
+    margin-left: 30%;
+}
+
+.body{
+    height: 1200px;
+    color: yellow;
+}
+
+
+.box1{
+    border: 5px solid purple;
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+}
+
+.box2{
+    border: 5px solid rgb(128, 0, 0);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(166, 65, 225);
+    top: 10px;
+    margin-left: 1310px;
+    position: absolute;
+    float: left;
+}
+
+.box3{
+    border: 5px solid darkmagenta;
+    height: 200px;
+    width: 200px;
+    background-color: navajowhite;
+    margin-left: 1310px;
+    position: absolute;
+    top: 500px;
+    }
+
+.box4{
+    border: 5px solid lightsalmon;
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    top: 500px;
+    position: absolute;
+}

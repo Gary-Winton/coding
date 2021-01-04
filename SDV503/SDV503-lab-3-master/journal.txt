@@ -1,0 +1,5 @@
+# SDV503-lab-3
+i learned that when you use the if statement then if you have something else that got the same description then you use the else 
+if statement and when you use the switch statement then you use var with console.log and a break at the end to separate each 1
+ use : after each case, if it doesn't match the first line then it will continue to go down each one until it matches up with
+ the score that is needed to mark correctly.

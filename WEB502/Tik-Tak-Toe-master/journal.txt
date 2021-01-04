@@ -1,0 +1,6 @@
+It this assessment we were asked to create a tic-tac-toe game which was fun playing growing up but i could never understand how 
+you could put it in a code like this until now, it looks like a fun way to play a game once you know how it work, I have 4 
+scenarios of a game not yet started, a draw which is where no one wins, a game where the x wins and then my last game is where 
+the O wins.
+
+I must say i actually had fun making this game and putting it in to code.

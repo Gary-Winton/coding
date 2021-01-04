@@ -1,0 +1,7 @@
+the variables i used in myFunc were myArr and arrLen, the is where i used the newArr to open an empty array, 
+once i did that, i used myArr.length and greater the 0 then i used the .push and the .splice methods then 
+return newArr to get my answer in console.log.
+
+in this function i did the reverse array but instead of reversing the whole array i actually needed to replace 
+each item so thats where the for and if came in to play, i also used the .length method and incremented my digit 
+to achieve my goal.

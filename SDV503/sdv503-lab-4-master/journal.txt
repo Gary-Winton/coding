@@ -1,0 +1,3 @@
+in Lab 4 we were asked to do a code for binary and  the way i understand this code it that what ever number you want deciphered 
+in to 0's and 1's which is a main way for getting an IP address, but in saying that the binary cade can go as high in the number 
+scale as you would like it to go.

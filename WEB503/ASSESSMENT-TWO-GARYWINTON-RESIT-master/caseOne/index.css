@@ -1,0 +1,53 @@
+.body{
+    height 89%;
+    width: 90%;
+    border: 2px solit purple;
+}
+
+.boxt{
+    border: 2px solid blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 50%;
+    background-color: purple;
+    top: 20%;
+}
+.boxr{
+    border: 2px solid cyan;
+    height: 200px;
+    width: 200px;
+    margin-left: 70%;
+    background-color: pink;
+    top: 275px;
+    position: absolute;
+}
+
+.paragraph{
+    /* border: 2PX SOLID gold; */
+    height: 200px;
+    width: 265px;
+    position: absolute;
+    top: 275px;
+    font-size: 20px;
+    margin-left: 43%;
+}
+
+.boxl{
+    border: 2px solid orangered;
+    height: 200px;
+    width: 200px;
+    margin-left: 20%;
+    background-color: orange;
+    top: 275px;
+    position: absolute;
+}
+
+.boxb{
+    border: 2px solid red;
+    height: 200px;
+    width: 200px;
+    margin-left: 45%;
+    background-color: black;
+    top: 550px;
+    position: absolute;
+}

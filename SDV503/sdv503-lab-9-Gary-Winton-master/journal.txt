@@ -1,0 +1,7 @@
+With myFunc7, the subArr works as the amount of sub arrays i want in that array, numitem is how many number i
+ want in the subarray and item is what i want to put into the subarray.
+
+in myFunc8, i used a string as that looked like the best way of doing things, even though when Ali was talking 
+about a specific type of code, to be honest i was completely lost as i didn't know what he meant when i could 
+just separate digits and letters but it was true of course, so what was used is the .match method 
+str.match(/[a-z]/gi) || [] this determines how many number and this str.match(/\d/g) || [] letters, 

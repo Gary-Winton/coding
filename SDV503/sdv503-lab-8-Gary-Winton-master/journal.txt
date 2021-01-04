@@ -1,0 +1,10 @@
+in myFunc4 I created a variable named obj, then i did a return where if its not object,keys then it 
+gives me false.
+
+in myFunc5, this was quite difficult for me to understand, i did by trying to figure out the difference between 
+const and function, then adding object as a variable then by doing a return object.entries, once that is done, 
+then i console.log the the variable with an obj with digits.
+
+in myFunc6 i used the let with item and object.keys to get my answer, when i wanted to get the return 
+i used the .map and then the es6 function just to bring out the array and then i was able to console.log to get 
+my final answer.

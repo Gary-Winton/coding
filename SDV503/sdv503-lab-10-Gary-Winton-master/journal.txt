@@ -1,0 +1,7 @@
+this is a task where a physical game is involved called paper, scissors, rock so had to write who wins in each 
+scenario, used the const players and used p1 and p2 as the variables, gave each move to each player so the 
+correct return can be given back in the console.log.
+
+in myFunc, we were given a task to take any array of number and sort it in to order, no matter how many of that 
+number you have, it will just use 1 of them just to make the numbers from lowest to highest, 
+using the .from and .sort methods to make this happen and get the return required

@@ -1,0 +1,4 @@
+This lab is where we had a bunch of numbers in as array and we had to get them in a descending and ascending order so that people
+can read it and that way we know and understand how to do it if ever asked to complete something like this again.
+at the beginning of this task, i actually found it quite difficult but i got there in the end, by asking one of my class mates
+help, which i believe he was happy to to.

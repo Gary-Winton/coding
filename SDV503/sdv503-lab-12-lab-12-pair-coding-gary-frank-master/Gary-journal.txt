@@ -1,0 +1,2 @@
+this is all new to me so im trying my best to keep up, what i believe i have learnt is that the let function is to calculate the amount of change given.
+the result is what change is left in the till so we know what we can give back to the customer

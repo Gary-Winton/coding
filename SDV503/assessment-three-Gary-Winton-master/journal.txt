@@ -1,0 +1,17 @@
+WHAT
+What have I learnt?- i have leant how to do a JS class with a constructor
+What do I know now that I didn't know before?-, i now know how to use some js functions that i never knew through 
+out my entire life
+What new understanding/skills have I gained?-I believe that i have gained some new skills that i can continue to go 
+forward and get an entry level job once this course is completed
+
+WHY
+Why have I learnt this?- I have learnt this to better understand how a website works and what functions are best 
+used for certain scenarios.
+The point of this is to teach me the things that are useful in the job market.
+
+
+HOW
+
+i will go through my github repositories and continue to practice
+I will learn more everytime i use js to fill in my understandings

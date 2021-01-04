@@ -1,0 +1,32 @@
+    Frank's Section:
+
+Phone Number Validator:
+
+I tried many ways to use regex for the Phone Number Validator, each 
+one only marginally more successful than the last. I tried many 
+things that I can no longer remember, but eventually realizing that 
+I was getting nowhere, I decided to look at the hints that 
+freeCodeCamp provides. When those only told me what I already knew, 
+I took a look at the answers also provided by freeCodeCamp.
+As soon as I saw the breakdown of the regex expression it made total
+sense to me.
+Thinking about it later I could have thought to search for a regex 
+"library" that explained what expressions do what. 20/20 hindsight...
+
+
+Cash Register:
+
+I first started pair-coding this with Gary, but ended up finished it 
+in a seperate file (indexCopy-Frank's) by myself, as Gary was not 
+often available. In this file I started fresh so that I could apply 
+what I had already learned while keeping my code cleaner.
+Most of my difficulties came from trying to calculate how much of 
+each type of change to return. My issue here was wrapping my head 
+around how to apply the math that I needed and controlling the 
+execution of the nested for loop.
+
+    References:
+While building this code I utilized:
+ * MDN web docs
+ * Stack Overflow
+ * freeCodeCamp

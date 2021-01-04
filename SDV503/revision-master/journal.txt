@@ -1,0 +1,3 @@
+
+when i assign a var with a y it takes that when i also put an if statement and that is my number, when i assign 2 vars and put a + between them, then it will add them together,
+const is the same as var which i just tried x + y + z and it added it all up

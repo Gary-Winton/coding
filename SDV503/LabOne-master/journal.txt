@@ -1,0 +1,3 @@
+In lab 1, we were asked to do some math equation's just to show our understanding of the js coding to be able to achieve
+this goal, i must say i did pretty well in this one, one it was explained in detail to me, i was able to understand the concept,
+But before that, i had no idea what i was meant to be doing but now i do.

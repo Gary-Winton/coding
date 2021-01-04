@@ -1,0 +1,3 @@
+# sdv503-lab-
+
+i had a lot of trouble learning functions but thanks to Phill talking me through it and explaining that a function is just like a var then i managed to understand it alot better and hat when i did the parameters and arguments the arguments do not need the function in front of it as that is just to call what i have already put as  the function creates what i need to do as it defines what i want to change now i shouldnt have too many issues but if i do, then im happy with that as i will just have to go back and relearn what i have done tonight.

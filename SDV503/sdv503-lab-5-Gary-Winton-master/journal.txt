@@ -1,0 +1,7 @@
+ive just been going through the arrays on W3schools and relearned tht the number always starts at 0 otherwise it will not pull the correct character.
+set up var with elements then doing a push will add to those specific elements.
+
+i had a bit of troble with this but managed to get it working when everything was explained to me in great details and terms i can relate to,
+i learned Math.max is picking the greater value number, also that concat merges 2 arrays together, reverse is just as it sounds and mirrors the digits and slice is where you take a portion of an array.
+
+i had trouble understanding the functions but i managed too get there in the end

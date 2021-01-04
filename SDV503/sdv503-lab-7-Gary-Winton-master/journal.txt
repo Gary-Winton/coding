@@ -1,0 +1,11 @@
+In this activity i named myFunc, I learned that with a simple code we are able to remove extra symbols like # if we choose to 
+not have them at all, even though to me instead of removing them with the code, why not just type it plainly
+and straight to the point, in this i used the x as a variable then .replace so that way i can change everything 
+that i put into the parameters.
+
+in myFunc2, i learned that an arr can be used as a variable and then it can be filtered with a ES6 => , 
+then when use the let with a different variable that = true.when we use the for() that when we tell it to use 
+something completely useful and direct to make our code work.
+
+In myFunc3, we are trying to pull the variables that has digits connecting to it by using arr.filter, 
+just like the code above as it i think it would work excactly the same.
